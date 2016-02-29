@@ -21,7 +21,7 @@
 ####佰米科技app内嵌校园服务H5的开发
 简介：佰米科技有限公司app中需要添加校园服务，如查课表等，而且希望嵌入的方式为H5的方式。【[项目源码](https://github.com/gwiron/gw-resume/tree/master/project/%E4%BD%B0%E7%B1%B3%E5%A4%96%E5%8C%85)】  
 ####杭电助手招新系统的开发（基于bootstrap响应式布局）
-简介：由于学校社团之前的招新形式很有局限性，故开发一个社团招新系统，新生只需要扫二维码或者由网站入口就可以填表单报名，而社团有自己的后台管理系统，并且我们也为社团订制了面试排队功能，[具体功能介绍](http://mp.weixin.qq.com/s?__biz=MjM5NDQ5MDAyMQ==&mid=215740136&idx=1&sn=a9a9f8f79216dcc037f18a162efc282c#rd) [排队功能使用介绍](http://mp.weixin.qq.com/s?__biz=MjM5NDQ5MDAyMQ==&mid=215834318&idx=1&sn=d5afc876e77a0e6d00ba6ac5335fca97#rd)  
+简介：由于学校社团之前的招新形式很有局限性，故开发一个社团招新系统，新生只需要扫二维码或者由网站入口就可以填表单报名，而社团有自己的后台管理系统，并且我们也为社团订制了面试排队功能，【[具体功能介绍](http://mp.weixin.qq.com/s?__biz=MjM5NDQ5MDAyMQ==&mid=215740136&idx=1&sn=a9a9f8f79216dcc037f18a162efc282c#rd)，[排队功能使用介绍](http://mp.weixin.qq.com/s?__biz=MjM5NDQ5MDAyMQ==&mid=215834318&idx=1&sn=d5afc876e77a0e6d00ba6ac5335fca97#rd)】
 ####基于H5、CSS3的助手展示页面，外加单独招新表单（如易企秀那种展示页面）
 ####杭电助手日常功能
 * 平常的活动的一些报名页面、展示页面  
