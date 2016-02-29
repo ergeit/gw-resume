@@ -7,4 +7,10 @@
 1. JavaScript  
 2. HTNL5，CSS  
 3. C语言  
-fadfadfafd
+##实习经历  
+无  
+##个人项目经历  
+###杭电助手  
+####杭电助手弹幕墙的开发（基于WebSocket）
+简介：
+
