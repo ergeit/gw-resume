@@ -7,6 +7,7 @@
 1. JavaScript  
 2. HTNL5，CSS  
 3. C语言  
+#####ps:[详细信息](https://github.com/gwiron/gw-resume/tree/master/detailed)
 
 ###实习经历  
 前端实习经历：无  
