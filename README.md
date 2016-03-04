@@ -5,7 +5,7 @@
 博客：http://www.cnblogs.com/iron-whale/  
 ### 擅长的编程语言  
 1. JavaScript  
-2. HTNL5，CSS  
+2. HTML5，CSS  
 3. C语言
 
 #####ps:[详细信息](https://github.com/gwiron/gw-resume/tree/master/detailed)
