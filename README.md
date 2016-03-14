@@ -1,7 +1,7 @@
 # 前端工程师-高少辉  
 ### 基本信息  
 姓名：高少辉  
-邮箱：gw_iron@hduhelp.com  
+邮箱：gw_iron@163.com  
 博客：http://www.cnblogs.com/iron-whale/  
 ### 擅长的编程语言  
 1. JavaScript  
