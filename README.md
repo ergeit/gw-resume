@@ -2,7 +2,7 @@
 ### 基本信息  
 姓名：高少辉  
 邮箱：gw_iron@163.com  
-博客：http://www.cnblogs.com/iron-whale/  
+博客：[gwiron.github.io](gwiron.github.io)
 ### 擅长的编程语言  
 1. JavaScript  
 2. HTML5，CSS  
